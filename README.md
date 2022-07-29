@@ -1,4 +1,5 @@
-
+# Introduction
+This was a test assignment I was given when I appiled for a java role. Most of the implementations may be that of a beginner because it was my first time writing a java code. I was to develop and api which keeps track of authors and their posts and the categories under which their posts fell under. I think the main purpose of this test was to check if I understood database relationships and how to implement them.
 
 # post-api-with-java
 
